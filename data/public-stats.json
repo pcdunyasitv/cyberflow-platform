@@ -6,18 +6,18 @@
   "courses": 50,
   "careers": 10,
   "contentBreakdown": {
-    "lessons": 2710,
+    "ctfs": 507,
+    "tests": 680,
     "blogs": 3360,
     "videos": 795,
-    "tests": 680,
-    "ctfs": 507
+    "lessons": 2710
   },
   "completionBreakdown": {
-    "lessons": 2000,
+    "ctfs": 2,
+    "tests": 34,
     "blogs": 30,
     "videos": 532,
-    "tests": 34,
-    "ctfs": 2
+    "lessons": 2000
   },
-  "updatedAtIso": "2026-06-23T22:08:51.745Z"
+  "updatedAtIso": "2026-06-24T00:15:19.950Z"
 }
