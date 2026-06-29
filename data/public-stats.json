@@ -1,7 +1,7 @@
 {
-  "users": 793,
-  "learningContent": 8059,
-  "completedLearning": 2667,
+  "users": 799,
+  "learningContent": 8130,
+  "completedLearning": 2685,
   "cves": 1577,
   "courses": 50,
   "careers": 10,
@@ -10,14 +10,14 @@
     "tests": 680,
     "blogs": 3360,
     "videos": 795,
-    "lessons": 2717
+    "lessons": 2788
   },
   "completionBreakdown": {
     "ctfs": 2,
     "blogs": 32,
-    "videos": 549,
     "tests": 43,
-    "lessons": 2041
+    "videos": 555,
+    "lessons": 2053
   },
-  "updatedAtIso": "2026-06-28T00:15:15.169Z"
+  "updatedAtIso": "2026-06-29T00:15:17.025Z"
 }
