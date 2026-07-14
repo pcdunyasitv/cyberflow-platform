@@ -18,14 +18,14 @@ getiren bağımsız bir eğitim platformu.
 
 <!-- CYBERFLOW_STATS_START -->
 
-> İstatistikler 13 Temmuz 2026 tarihinde Firestore üzerinden anonim ve toplu
+> İstatistikler 14 Temmuz 2026 tarihinde Firestore üzerinden anonim ve toplu
 > olarak güncellenmiştir.
 
 |  | Güncel değer |
 |---|---:|
-| 👥 Kayıtlı kullanıcı | **854** |
+| 👥 Kayıtlı kullanıcı | **855** |
 | 🧠 Öğrenme içeriği | **8.056** |
-| ✅ Tamamlanan öğrenme etkinliği | **3.305** |
+| ✅ Tamamlanan öğrenme etkinliği | **3.375** |
 | 🛡️ CVE kaydı | **1.577** |
 | 🎓 Kurs | **50** |
 | 🧭 Kariyer yolu | **10** |
@@ -40,7 +40,7 @@ getiren bağımsız bir eğitim platformu.
 
 | Tamamlanan eğitim | Blog | Video | Test | CTF |
 |---:|---:|---:|---:|---:|
-| 2.428 | 77 | 735 | 62 | 3 |
+| 2.465 | 82 | 763 | 62 | 3 |
 
 <!-- CYBERFLOW_STATS_END -->
 
